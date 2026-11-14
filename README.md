@@ -3,7 +3,7 @@
 **Date:** 2026-11-14  
 **AWS Region:** us-west-2 (Oregon)  
 **Services used:** Amazon S3, AWS KMS, AWS Management Console  
-**Bucket:** `restart-b33-gpb-2026-14-11-us-west-2-an`  
+**Bucket:** `restart-b33-gpb-2026-11-14-us-west-2-an`  
 **Original lab:** https://github.com/jjrs07/restart-batch33/tree/main/s3-lab
 
 ## Objective
